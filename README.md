@@ -1,6 +1,6 @@
-# UdaPlay AI Research Agent
+# AI Research Agent
 
-UdaPlay is an AI research agent for the video game industry. It combines a local Retrieval-Augmented Generation (RAG) pipeline with web search fallback to answer questions about games, publishers, release dates, platforms, genres, and related industry information.
+An AI research agent that combines a local Retrieval-Augmented Generation (RAG) pipeline with web search fallback to answer questions grounded in data.
 
 The project demonstrates:
 
