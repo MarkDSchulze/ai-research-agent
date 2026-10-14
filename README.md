@@ -190,14 +190,6 @@ udaplay-ai-research-agent/
 
 API credentials are stored locally in `.env` and are excluded from version control.
 
-The repository should not contain:
-
-```text
-.env
-__pycache__/
-*.pyc
-```
-
 ## License
 
 See the project license for details.
